@@ -1,4 +1,6 @@
 # callback-loader
+
+[![Join the chat at https://gitter.im/Kreozot/callback-loader](https://badges.gitter.im/Kreozot/callback-loader.svg)](https://gitter.im/Kreozot/callback-loader?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/Kreozot/callback-loader.svg?branch=master)](https://travis-ci.org/Kreozot/callback-loader)
 [![npm version](https://badge.fury.io/js/callback-loader.svg)](https://badge.fury.io/js/callback-loader)
 
